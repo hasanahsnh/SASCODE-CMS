@@ -2132,7 +2132,7 @@ input::-moz-focus-inner {
 
 .home-content__right {
   z-index: 500;
-  width: 580px;
+  width: auto;
   position: absolute;
   right: 0;
   top: 0;

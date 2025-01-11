@@ -71,14 +71,14 @@
                         Temukan keunikan budaya dalam genggaman Anda!                    
                     </h3>
                     <div class="home-content__btn-wrap">
-                        <a href="#download" class="btn btn--primary home-content__btn smoothscroll" style="background: #8C3061; border:none; outline:none">
+                        <a href="https://mega.nz/folder/Mb9lkLZR#eCEZQ00czyLNB2c16eRgQg" target="_blank" class="btn btn--primary home-content__btn" style="background: #8C3061; border:none; outline:none">
                             Dapatkan Aplikasi
                         </a>
                     </div>
                 </div> <!-- end home-content__left-->
 
                 <div class="home-content__right">
-                    <img src="{{ asset('pengunjung/images/hero-app-img-1.png') }}" style="width: 150%; height: auto;" srcset="{{ asset('pengunjung/images/hero-app-img-1.png 1x, pengunjung/images/hero-app-img-1.png 2x') }}">
+                    <img src="{{ asset('pengunjung/images/hero_app_img.png') }}" style="width: 100%; height: auto; object-fit: cover;" srcset="{{ asset('pengunjung/images/hero_app_img.png 1x, pengunjung/images/hero_app_img.png 2x') }}">
                 </div> <!-- end home-content__right -->
 
             </div> <!-- end home-content__main -->
@@ -159,13 +159,16 @@
                
                     <div class="col-block step">
                         <h3 class="item-title">Scan Motif</h3>
-                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+                        <p>memindai kain Sasirangan untuk mengungkap filosofi mendalam di balik setiap motif. Jadikan pengalaman budaya 
+                            lebih interaktif dan edukatif hanya dengan sekali scan. Temukan makna di balik seni tradisional dengan mudah!
                         </p> 
                     </div>
 
                     <div class="col-block step">
                         <h3 class="item-title">Rilis Media</h3>
-                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+                        <p>
+                            Dapatkan informasi terbaru dan terpercaya seputar aplikasi SasCode, inovasi, serta kolaborasi kami. Ikuti rilis
+                             media untuk menjelajahi cerita di balik pengembangan teknologi yang memadukan seni dan budaya tradisional.
                         </p> 
                     </div>  
 
