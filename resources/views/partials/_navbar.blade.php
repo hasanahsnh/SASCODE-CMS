@@ -9,7 +9,7 @@
         </div>  
       </div>
       <div class="navbar-menu-wrapper d-flex align-items-center justify-content-end">
-        <ul class="navbar-nav mr-lg-4 w-100">
+        <!--<ul class="navbar-nav mr-lg-4 w-100">
           <li class="nav-item nav-search d-none d-lg-block w-100">
             <div class="input-group">
               <div class="input-group-prepend">
@@ -20,7 +20,7 @@
               <input type="text" id="global-search" class="form-control" placeholder="Cari Motif, Toko, dan Artikel terkait..." aria-label="search" aria-describedby="search">
             </div>
           </li>
-        </ul>
+        </ul>-->
         <ul class="navbar-nav navbar-nav-right">
           <li class="nav-item dropdown mr-1">
             <a class="nav-link count-indicator dropdown-toggle d-flex justify-content-center align-items-center" href="https://wa.me/6289696210706?text=Saya%20Manajer%20Konten%2C%20terdapat%20perihal%20yang%20ingin%20saya%20tanyakan%20mengenai%20sistem">

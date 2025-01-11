@@ -84,9 +84,9 @@
             </div> <!-- end home-content__main -->
 
             <ul class="home-content__social">
-                <li><a href="#0">GitHub</a></li>
-                <li><a href="#0">WhatsApp</a></li>
-                <li><a href="#0">Instagram</a></li>
+                <li><a href="https://github.com/hasanahsnh/" target="_blank">GitHub</a></li>
+                <li><a href="https://wa.me/6289696210706/"  target="_blank">WhatsApp</a></li>
+                <li><a href="https://www.instagram.com/hasanahsnh/" target="_blank">Instagram</a></li>
             </ul>
 
         </div> <!-- end home-content -->
